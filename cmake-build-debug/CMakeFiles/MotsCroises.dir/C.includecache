@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/guerineau/CLionProjects/MotsCroises/grille.c
+stdio.h
+-
+grille.h
+/home/guerineau/CLionProjects/MotsCroises/grille.h
+
+/home/guerineau/CLionProjects/MotsCroises/grille.h
+
+/home/guerineau/CLionProjects/MotsCroises/main.c
+stdio.h
+-
+stdlib.h
+-
+grille.h
+/home/guerineau/CLionProjects/MotsCroises/grille.h
+

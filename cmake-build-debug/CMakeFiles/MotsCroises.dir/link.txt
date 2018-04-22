@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/MotsCroises.dir/main.c.o CMakeFiles/MotsCroises.dir/grille.c.o  -o MotsCroises 
